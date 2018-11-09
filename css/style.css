@@ -1,0 +1,18 @@
+img { 
+width: 300px;
+height: 300px;
+object-fit:cover;}
+h1 {
+  color: magenta;
+  
+}
+h2 {
+  color: blue;
+ 
+}
+h3 {
+ color: red; 
+}
+body {
+  background:yellow;
+}
